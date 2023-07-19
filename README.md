@@ -1,1 +1,1 @@
-# cstring
+string structor in c 
